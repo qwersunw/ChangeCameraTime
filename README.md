@@ -24,6 +24,11 @@ pip install pyexiv2
 pip install piexif
 ```
 
+修改完文件时间后，可能导入到手机的时候又乱了。参考这篇文章
+https://www.i4.cn/news_detail_11782.html
+
+我一般都是压缩，然后导入到手机中解压缩。
+
 参考
 https://github.com/bcwyatt/change-photo-name-date-time
 
